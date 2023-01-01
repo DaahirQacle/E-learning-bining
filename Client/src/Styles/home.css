@@ -1,0 +1,21 @@
+.sm1{
+position: absolute;
+top: 30%;
+left: 40%;
+}
+.sm2{
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    }
+    .mid{
+        position: absolute;
+        top: 39%;
+        left: 30%;
+        }
+.space{
+    position: absolute;
+    top: 60%;
+    left: 3%;
+    right: 3%;
+    }

@@ -1,0 +1,19 @@
+
+.upper{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+.social{
+    text-align: center;
+    padding: 40px;
+  }
+  i{
+    color: white;
+    margin: 0 50px;
+  }
+  /* i:hover{
+    background: #882a32;
+    color: #aa4596;
+  } */
+  
