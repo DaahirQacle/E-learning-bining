@@ -38,7 +38,9 @@ const[cost , setCost] = useState([])
         ))
       }
       </div>
-           {/* <Footer/>   */}
+         
+    
+         
     </div>
     
   )

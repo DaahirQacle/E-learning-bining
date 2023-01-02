@@ -8,7 +8,7 @@ function Test({data}) {
     <div className="card-title p-2">
         <h3>{title}</h3>
     </div>
-    <div className="card-body ">
+    <div className="card-body  ">
         <p>{desc}</p>
     </div>
 </div>
